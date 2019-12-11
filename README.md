@@ -1,0 +1,2 @@
+# CoinTips
+CoinTips Discussions 
